@@ -1,0 +1,9 @@
+NAT_IP = 192.168.31.89/24
+nat_switch_id = 3
+nat_switch_port = 4
+net_getaway_ip = 192.168.31.1
+Net = 192.168.0.0/20
+gateway = 254
+server_host_port = 192.168.6.4:80,80
+VPN_NET = 192.168.6.0/24
+
